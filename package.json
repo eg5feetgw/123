@@ -1,0 +1,1 @@
+{"name":"memory-archive","version":"1.0.0","private":true,"type":"module","engines":{"node":">=22"},"scripts":{"check":"node scripts/build.mjs --check","build":"node scripts/build.mjs","test":"node --test scripts/test.mjs","preview":"node scripts/preview.mjs"}}
